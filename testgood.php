@@ -15,6 +15,12 @@ and open the template in the editor.
         echo 'A successful test!';
         echo '<br/>';
         echo 'A perfect closure!';
+        echo 'A successful test!';
+        echo '<br/>';
+        echo 'A perfect closure!';
+        echo 'A successful test!';
+        echo '<br/>';
+        echo 'A perfect closure!';
         ?>
     </body>
 </html>
